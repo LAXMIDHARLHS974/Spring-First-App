@@ -1,0 +1,1 @@
+My first application built using the Spring Framework, exploring the fundamentals of Spring Boot, application configuration, and the development of Java-based applications. This project marks the beginning of my journey into Spring and backend development.
